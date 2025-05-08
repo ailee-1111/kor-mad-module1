@@ -68,7 +68,7 @@ image::add-applications.png[Add applications]
 
 이것은 리눅스 컨테이너가 될 것이므로, Windows 파일시스템 경로가 있거나, 컨테이너 또는 리눅스에 친화적이지 않은 구성 등을 피하기 위해 건전성 검사를 하는 것이 합리적입니다. 또한 독점적인 JDK 배포판에 대한 의존성을 제거하기 위해 OpenJDK를 대상으로 선택할 것입니다.
 
-따라서 대상으로 `Containers`, `Linux`, `OpenJDK` 를 클릭합니다.
+따라서 대상으로 `Containerization`, `Linux`, `OpenJDK` 를 클릭합니다.
 
 image::configure-analysis-checked.png[Configure Analysis]
 
