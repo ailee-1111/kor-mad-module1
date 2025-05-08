@@ -64,6 +64,8 @@ image::mta-control-business-service.png[business service]
 
 *Migration* 관점의 왼쪽 메뉴에서 `Application inventory` 로 이동하여 customers 애플리케이션의 `tag` 아이콘을 클릭합니다.
 
+image::01mta-left.png[01mta-left]
+
 image::app-inventory-landing.png[app-inventory-landing]
 
 태그 10개가 표시됩니다.
