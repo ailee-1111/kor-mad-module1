@@ -34,6 +34,7 @@ image::application-inventory.png[application inventory]
 
 자세한 내용은 https://access.redhat.com/documentation/en-us/migration_toolkit_for_applications/7.0/html/user_interface_guide/working-with-applications-in-the-ui#mta-web-creating-migration-waves_user-interface-guide[마이그레이션 웨이브 생성^] 및 https://access.redhat.com/documentation/en-us/migration_toolkit_for_applications/7.0/html/user_interface_guide/working-with-applications-in-the-ui#mta-web-creating-jira-issues-for-migration-wave_user-interface-guide[마이그레이션 웨이브에 대한 Jira 이슈 생성^]을 참조하세요.
 
+
 == 2.2. 컨트롤
 
 *컨트롤(Controls)* 은 Application Inventory와 Pathfinder 평가에 가치를 더하는 엔터티 모음입니다. 여기에는 _비즈니스 서비스_, _이해 관계자_, _이해 관계자 그룹_, _직무 기능_, _태그 유형_, _태그_ 가 포함됩니다.
